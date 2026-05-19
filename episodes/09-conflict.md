@@ -581,6 +581,14 @@ started.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## A resource for solving Git problems
+
+Occasionally, you might find yourself facing a difficult Git problem. Katie Sylor-Miller has curated a selection of Git fixes on the web site [Dangit, Git!?!](https://dangitgit.com/en).
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - Conflicts occur when two or more people change the same lines of the same file.
